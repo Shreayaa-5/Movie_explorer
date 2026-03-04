@@ -1,4 +1,4 @@
-# 🎬 Tamil Movie Explorer
+# 🎬 Movie Explorer
 
 A full-stack project that scrapes the **Top 100 Tamil Movies from IMDb** using **Selenium** and displays them in a modern, interactive web interface built with **Flask**.
 
